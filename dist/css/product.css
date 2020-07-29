@@ -17,7 +17,7 @@ li {
 
 .goodslist {
   width: 1200px;
-  height: 3000px;
+  height: 3200px;
   margin: 0 auto;
   margin-top: 10px;
   border-top: 2px  solid orange; }
@@ -36,7 +36,7 @@ li {
       height: 500px;
       float: left;
       margin-left: 13px;
-      border: 2px solid black; }
+      border: 2px solid blue; }
       .goodslist .list ul li:hover {
         border: 2px solid  red; }
       .goodslist .list ul li img {
@@ -46,7 +46,8 @@ li {
         display: block;
         height: 60px;
         margin-top: 10px;
-        margin-left: 10px; }
+        margin-left: 10px;
+        color: white; }
         .goodslist .list ul li h4:hover {
           color: skyblue; }
       .goodslist .list ul li span {
