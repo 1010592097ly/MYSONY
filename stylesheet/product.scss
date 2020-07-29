@@ -25,6 +25,7 @@ li{list-style: none;}
             line-height: 50px;
             font-size: 25px;;
             margin-left: 20px;
+            color: white;
         }
     }
     .list{
@@ -36,9 +37,9 @@ li{list-style: none;}
         //    background-color: olive;
            float: left;
            margin-left: 13px;
-           border: 2px solid blue;
+           border: 2px solid red;
            &:hover{
-               border:2px solid  red;
+               border:2px solid  blue;
            }
            img{
                width: 100%;
