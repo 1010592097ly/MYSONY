@@ -3,9 +3,10 @@ body{
     background: url(../images/back.jpg) no-repeat 100% 100% ;
 }
 .register{
+    color: white;
     width: 500px;
     height: 500px;
-    background: rgba(255,255,255,0.2);
+    background:black;
     margin: 100px auto;
     border: 2px solid black;
     .user{
@@ -14,7 +15,7 @@ body{
         // background-color: green;
         line-height: 130px;
         text-align: center;
-        font-size: 30px;
+        font-size: 20px;
         input{
             height: 30px;
             width: 200px;
@@ -24,6 +25,7 @@ body{
         }
     }
     .password{
+        color: white;
         width: 500px;
         height: 130px;
         // background-color: green;
@@ -39,6 +41,7 @@ body{
         }
     }
     .repassword{
+        color: white;
         width: 500px;
         height: 130px;
         // background-color: green;
